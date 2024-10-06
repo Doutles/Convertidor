@@ -54,7 +54,6 @@ JsonParser.java: Clase que procesa las respuestas JSON.
 
 Ejemplo de Ejecución
 
-Copiar código
 ==== Conversor de Monedas ====
 1. Convertir moneda
 2. Salir
